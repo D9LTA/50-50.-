@@ -13,4 +13,4 @@ if kek > 50:
 else:
     print("Cara")
     notifyMe("Cara", "Cara!")
-os.system("pause")
+
